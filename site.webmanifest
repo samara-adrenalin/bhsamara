@@ -1,0 +1,31 @@
+{
+  "name": "BLACK HOLE — Хоррор квесты в Самаре",
+  "short_name": "BLACK HOLE",
+  "description": "Хоррор квесты в Самаре с живыми актёрами: первобытный страх и адреналин в настоящем бункере. Работаем круглосуточно.",
+  "lang": "ru",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0b",
+  "theme_color": "#0a0a0b",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/favicon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/favicon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
